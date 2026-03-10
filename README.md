@@ -1817,6 +1817,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 - [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 - [sist2](https://github.com/sist2app/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 - [Sosse](https://sosse.readthedocs.io/en/stable/) - Selenium based search engine and crawler with offline archiving. ([Source Code](https://gitlab.com/biolds1/sosse)) `AGPL-3.0` `Python/Docker`
+- [Spectrawl](https://github.com/FayAndXan/spectrawl) - Unified web layer for AI agents with search (8 engines), stealth browsing, cookie auth, and platform actions. ([Source Code](https://github.com/FayAndXan/spectrawl)) `MIT` `Nodejs`
 - [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code](https://github.com/typesense/typesense)) `GPL-3.0` `C++/Docker/K8S/deb`
 - [Websurfx](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 - [Whoogle](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
